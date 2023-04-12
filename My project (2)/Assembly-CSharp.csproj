@@ -61,8 +61,9 @@
     <Compile Include="Assets\Assets externos\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
     <Compile Include="Assets\Scripts\CharacterAnimBasedMovement.cs" />
     <Compile Include="Assets\Scripts\InputData.cs" />
+    <Compile Include="Assets\Scripts\ControlCinem1.cs" />
     <Compile Include="Assets\Assets externos\Addons\CameraPathCreator\DEMO\CPC_DEMO_UpDown.cs" />
-    <Compile Include="Assets\BoredBehaviour.cs" />
+    <Compile Include="Assets\Scripts\BoredBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets externos\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
